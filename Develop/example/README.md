@@ -1,9 +1,9 @@
 
-  # hello
+  # readme-generator 
 
   ## Description 
   
-  nice
+  hello nice to meet you this is the app for generating the readme file when you answer the questions 
 
   ## Table of Contents
 
@@ -17,29 +17,29 @@
  <a name="installation"></a>
  # Installation 
 
- to
+ inquirer should be installed to use the program 
 
  <a name="usage"></a>
  # Usage  
 
- meet
+ creating the readme which has a professional format 
 
  <a name="contributing"></a>
  # Contributing
 
- i
+ mmmm... 
 
  <a name="tests"></a>
  # Tests
 
- and 
+ should start with the node index.js 
 
  <a name="license"></a>
  # License 
 
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
- https://api.github.com/licenses/mit
+ https://api.github.com/licenses/unlicense
  
  <a name="questions"></a>
  # Questions 
@@ -47,7 +47,7 @@
  If you have any questions according to the program feel free to ask questions through Github or Email. 
 
 
- Github: you?
+ Github: miayun98
 
- Email: yeah
+ Email: username@gmail.com
 
